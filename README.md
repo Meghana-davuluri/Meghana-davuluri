@@ -9,7 +9,6 @@
   <a href="https://apexlot.vercel.app"><img src="https://img.shields.io/badge/APEXLOT-FF4500?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://facefind-eight.vercel.app"><img src="https://img.shields.io/badge/FACEFIND-1E90FF?style=for-the-badge&logo=icloud&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/meghana-davuluri-397b37130/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:meghan.davuluri@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---

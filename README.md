@@ -29,7 +29,6 @@ I move across the stack: training and deploying ML models, designing APIs, build
 ### Selected Public Work
 
 - **[Meeting Summary Extractor](https://github.com/Meghana-davuluri/Meeting-Summary-Extractor)** — Whisper + GPT pipeline for meeting summaries.
-- **[MDR Bridge](https://github.com/Meghana-davuluri/mdr-bridge-website)** — Medical device consulting site.
 - **[ApexLot Case Study](https://github.com/Meghana-davuluri/apexlot-case-study)**
 - **[FaceFind Case Study](https://github.com/Meghana-davuluri/facefind-case-study)**
 

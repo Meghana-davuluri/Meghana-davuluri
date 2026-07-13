@@ -15,7 +15,7 @@
 
 ### About
 
-I'm an engineer and founder building **AI-powered products** from idea to production. My work spans **applied machine learning**, **full-stack development**, and **serverless cloud infrastructure** — with a focus on shipping real products that solve real problems.
+I'm an engineer and founder building **AI-powered products** from idea to production. My work spans **applied machine learning**, **full-stack development**, and **serverless cloud infrastructure** with a focus on shipping real products that solve real problems.
 
 I move across the stack: training and deploying ML models, designing APIs, building production UIs, and standing up the cloud infrastructure that holds it all together.
 

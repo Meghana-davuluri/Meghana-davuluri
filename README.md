@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://askabhi.ai"><img src="https://img.shields.io/badge/ASK%20ABHI-000000?style=for-the-badge&logo=probot&logoColor=white" /></a>
+  <a href="https://askabhi.ai"><img src="https://img.shields.io/badge/ASK%20ABHI-7C3AED?style=for-the-badge&logo=probot&logoColor=white" /></a>
   <a href="https://apexlot.vercel.app"><img src="https://img.shields.io/badge/APEXLOT-FF4500?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://facefind-eight.vercel.app"><img src="https://img.shields.io/badge/FACEFIND-1E90FF?style=for-the-badge&logo=icloud&logoColor=white" /></a>
+  <a href="https://facefind-eight.vercel.app"><img src="https://img.shields.io/badge/FACEFIND-F43F5E?style=for-the-badge&logo=icloud&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/meghana-davuluri-397b37130/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portfolio-meghana-davuluris-projects.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://portfolio-meghana-davuluris-projects.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-F5A623?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
